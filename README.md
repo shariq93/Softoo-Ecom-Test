@@ -1,3 +1,4 @@
+
 # Softoo React Native Test
 
 This project is created as per the requirments provided by **Sooftoo.co**.
@@ -11,10 +12,12 @@ This project is created as per the requirments provided by **Sooftoo.co**.
 
 
 
+## Demo video
+
+Uploaded on Google drive, click here to watch [Project Demo](https://drive.google.com/file/d/1KRvOVUUvgWU0JVyj3uzg0AJo77mIH4k6/view?usp=sharing)
 ## Project Details
 
 This project is built using [Ignite-cli](https://github.com/infinitered/ignite), which offers nearly everything required to kickstart a project. It saves a significant amount of time and effort by providing boilerplate code for state management, navigation, and more.
-
 
 #### State Managment
 This project utilizes **Mobx State Tree** as the state management library, which is integrated by default in **ignite-cli** projects. MST enforces type safety, and when combined with **TypeScript**, it grants you complete control over your application's data types.
