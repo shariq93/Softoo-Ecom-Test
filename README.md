@@ -14,7 +14,7 @@ This project is created as per the requirments provided by **Sooftoo.co**.
 
 ## Demo video
 
-Uploaded on Google drive, click here to watch [Project Demo](https://drive.google.com/file/d/1KRvOVUUvgWU0JVyj3uzg0AJo77mIH4k6/view?usp=sharing)
+Uploaded on Google drive, click here to watch [Project Demo](https://github.com/shariq93/Softoo-Ecom-Test/blob/master/demo_video.mov)
 ## Project Details
 
 This project is built using [Ignite-cli](https://github.com/infinitered/ignite), which offers nearly everything required to kickstart a project. It saves a significant amount of time and effort by providing boilerplate code for state management, navigation, and more.
