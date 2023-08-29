@@ -27,7 +27,7 @@ You can find the test file `project > src > store > reducer > CartReducer.test.t
 - Node.js and PHP for server side scripting and api creation
 - SQL 
 - Firebase 
-- Hands on knowledge Of AWS landa (with node.js), S3, SNS and some API services. I also have basic knowledge of Cloud architecture.
+- Hands on knowledge Of AWS lamda (with node.js), S3, SNS and some API services. I also have basic knowledge of Cloud architecture.
 - Micro services architecture.
-- Other state managment Libs like **Redux**.
+- Other state managment Libs like **MOBX**.
 - Agile Project Managment
