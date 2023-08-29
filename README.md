@@ -11,20 +11,13 @@ This project is created as per the requirments provided by **Sooftoo.co**.
 - Edit quantity/remove items from the basket screen
 
 
-
-## Demo video
-
-Uploaded on Google drive, click here to watch [Project Demo](https://github.com/shariq93/Softoo-Ecom-Test/blob/master/demo_video.mov)
 ## Project Details
 
-This project is built using [Ignite-cli](https://github.com/infinitered/ignite), which offers nearly everything required to kickstart a project. It saves a significant amount of time and effort by providing boilerplate code for state management, navigation, and more.
-
-#### State Managment
-This project utilizes **Mobx State Tree** as the state management library, which is integrated by default in **ignite-cli** projects. MST enforces type safety, and when combined with **TypeScript**, it grants you complete control over your application's data types.
+In this project, the chosen state management library is **Redux**, along with **Redux-Observable** as middleware and **Axios** as the API client. This combination of technologies enables efficient state management and asynchronous operations.
 
 ### Unit Testing
-Using **Jest** for testing for now I just wrote test for **CartModel** due to time constrain you can run test by running `yarn test Cart`.
-You can find the test file `project > app > models > Cart.test.ts`.
+Using **Jest** for testing for now I just wrote test for **CartReducer** due to time constrain you can run test by running `yarn jest CartReducer`.
+You can find the test file `project > src > store > reducer > CartReducer.test.ts`.
 
 
 
