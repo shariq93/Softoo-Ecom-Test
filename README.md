@@ -26,6 +26,21 @@ This project utilizes **Mobx State Tree** as the state management library, which
 Using **Jest** for testing for now I just wrote test for **CartModel** due to time constrain you can run test by running `yarn test Cart`.
 You can find the test file `project > app > models > Cart.test.ts`.
 
+### Extra code and files
+
+As mentioned I am using Ignite Cli boilerplate for this project because its tested and trusted my best developers.
+It comes with some extra features that helps when you are building a scaleable project. Here are the some file that we are not using for this project but will help while developing a production level application.
+
+
+`Project > bin` this folder contain scripts for project configurations.
+
+`Project > app > devtools` this folder debugger configurations.
+
+`Project > app > i18n` this folder contain files for translations and integrated with compoments like text, button, input field etc.
+
+`Project > app > utils` this folder contain helper functions for the project.
+
+
 
 
 ### About Me
